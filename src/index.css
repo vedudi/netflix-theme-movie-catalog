@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  text-transform: capitalize;
+}
+.banner{
+  filter: drop-shadow(0 0 80px rgba(255, 255, 255, 0.4))
+}
